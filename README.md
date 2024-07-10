@@ -16,8 +16,6 @@
  
 🎓 I’m currently studying **Computer Science**
 
- 🌱 I’m learning about **Machine Learning, Python**
-
 ⚡ **The first computer virus was created in 1983 by Fred Cohen and was called the "Brain" virus.**
 
  </div>
