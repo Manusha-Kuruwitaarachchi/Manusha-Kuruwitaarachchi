@@ -8,7 +8,7 @@
 </h1>
 
 
-<h3 align="center">A passionate software developing undergraduate </h3>
+<h3 align="center">A passionate software developing undergraduate 🇱🇰 </h3>
 
 <br/>
 
