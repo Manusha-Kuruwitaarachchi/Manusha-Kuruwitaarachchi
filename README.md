@@ -14,8 +14,9 @@
 
 <div align="center">
  
+🎓 I’m currently studying **Computer Science**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Manusha-Kuruwitaarachchi/Manusha-Kuruwitaarachchi/issues)**
+ 🌱 I’m learning about **Machine Learning, Python**
 
 ⚡ **The first computer virus was created in 1983 by Fred Cohen and was called the "Brain" virus.**
 
