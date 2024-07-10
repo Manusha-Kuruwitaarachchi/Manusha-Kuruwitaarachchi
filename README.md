@@ -11,7 +11,6 @@
 <h3 align="center">A passionate software developing undergraduate 🇱🇰 </h3>
 
 <br/>
-
 <div align="center">
  
 🎓 I’m currently studying **Computer Science**
