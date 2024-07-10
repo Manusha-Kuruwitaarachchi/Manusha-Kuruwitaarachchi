@@ -17,7 +17,7 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Manusha-Kuruwitaarachchi/Manusha-Kuruwitaarachchi/issues)**
 
-⚡ Fun fact **The first computer virus was created in 1983 by Fred Cohen and was called the "Brain" virus.**
+⚡ **The first computer virus was created in 1983 by Fred Cohen and was called the "Brain" virus.**
 
  </div>
  
