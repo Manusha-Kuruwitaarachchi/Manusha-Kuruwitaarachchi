@@ -13,7 +13,7 @@
 <br/>
 <div align="center">
  
-🎓 I’m currently studying **Computer Science**
+🎓 I’m currently studying **Software Engineer**
 
 ⚡ **The first computer virus was created in 1983 by Fred Cohen and was called the "Brain" virus.**
 
