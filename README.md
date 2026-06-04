@@ -13,7 +13,7 @@
 ```yaml
 name        : Manusha Kuruwitaarachchi
 role        : Full-Stack Developer & AI Explorer
-location    : Colombo, Sri Lanka 🇱🇰
+location    : Colombo, Sri Lanka 
 backend     : Java · Spring Boot · Microservices · Node.js · FastAPI
 frontend    : React · React Native · TypeScript · JavaScript
 ai_stack    : Python · LLMs · NLP · RoBERTa
