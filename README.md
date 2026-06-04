@@ -101,7 +101,7 @@ status      : open to opportunities ✅
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Manusha-Kuruwitaarachchi&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Manusha-Kuruwitaarachchi&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6" />
 
 </div>
 
