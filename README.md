@@ -1,24 +1,14 @@
-<div>
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Manusha%20Kuruwitaarachchi&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Backend%20Engineer&descAlignY=62&descSize=15&descColor=c4b5fd&animation=fadeIn" width="100%" />
 
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%26+LLM+Integration+Enthusiast;Full-Stack+Developer;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Docker;Building+systems+that+scale+%E2%9A%A1)](https://git.io/typing-svg)
 
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/manusha--kuruwitaarachchi.vercel.app-ffffff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://manusha-kuruwitaarachchi.vercel.app)
-
-</div>
+[![Portfolio](https://img.shields.io/badge/manusha--kuruwitaarachchi.vercel.app-ffffff?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=ffffff)](https://manusha-kuruwitaarachchi.vercel.app)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
 
 ```yaml
 name        : Manusha Kuruwitaarachchi
@@ -29,8 +19,6 @@ frontend    : React · React Native · TypeScript · JavaScript
 ai_stack    : Python · LLMs · NLP · RoBERTa
 status      : open to opportunities ✅
 ```
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
