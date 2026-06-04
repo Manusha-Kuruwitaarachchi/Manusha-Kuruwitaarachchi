@@ -2,7 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Manusha%20Kuruwitaarachchi&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Backend%20Engineer&descAlignY=62&descSize=15&descColor=c4b5fd&animation=fadeIn" width="100%" />
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%26+LLM+Integration+Enthusiast;Full-Stack+Developer;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Docker;Building+systems+that+scale+%E2%9A%A1)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
 
@@ -14,6 +18,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<div align="center">
+
 ```yaml
 name        : Manusha Kuruwitaarachchi
 role        : Full-Stack Developer & AI Explorer
@@ -23,6 +29,8 @@ frontend    : React · React Native · TypeScript · JavaScript
 ai_stack    : Python · LLMs · NLP · RoBERTa
 status      : open to opportunities ✅
 ```
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -86,14 +94,14 @@ status      : open to opportunities ✅
 
 <h2 align="center">GitHub Stats</h2>
 
-<div>
+<div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Manusha-Kuruwitaarachchi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=94a3b8&count_private=true&rank_icon=github" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manusha-Kuruwitaarachchi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=94a3b8&langs_count=6&hide=html" />
 
 </div>
 
-<div>
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Manusha-Kuruwitaarachchi&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=6366f1&ring=a78bfa&fire=7c3aed&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=475569)](https://git.io/streak-stats)
 
@@ -103,7 +111,7 @@ status      : open to opportunities ✅
 
 <h2 align="center">Contribution Graph</h2>
 
-<div>
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manusha-Kuruwitaarachchi/Manusha-Kuruwitaarachchi/output/github-snake-dark.svg" />
@@ -117,7 +125,7 @@ status      : open to opportunities ✅
 
 <h2 align="center">Trophies</h2>
 
-<div>
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Manusha-Kuruwitaarachchi&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6" />
 
@@ -127,7 +135,7 @@ status      : open to opportunities ✅
 
 <h2 align="center">Connect</h2>
 
-<div>
+<div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-manushaavinda%40gmail.com-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:manushaavinda@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manusha--kuruwitaarachchi-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/manusha-kuruwitaarachchi-0b0710208/)
