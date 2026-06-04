@@ -1,14 +1,18 @@
-<div align="center">
+<div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Manusha%20Kuruwitaarachchi&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Backend%20Engineer&descAlignY=62&descSize=15&descColor=c4b5fd&animation=fadeIn" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%26+LLM+Integration+Enthusiast;Full-Stack+Developer;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Docker;Building+systems+that+scale+%E2%9A%A1)](https://git.io/typing-svg)
 
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/manusha--kuruwitaarachchi.vercel.app-ffffff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://manusha-kuruwitaarachchi.vercel.app)
+
 </div>
 
----
+</div>
 
-### `> whoami`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ```yaml
 name        : Manusha Kuruwitaarachchi
@@ -20,11 +24,12 @@ ai_stack    : Python · LLMs · NLP · RoBERTa
 status      : open to opportunities ✅
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### `> cat stack.json`
+<h2 align="center">Tech Stack</h2>
 
-**Backend**
+<h4>Backend</h4>
+<div>
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
@@ -33,22 +38,30 @@ status      : open to opportunities ✅
 ![REST API](https://img.shields.io/badge/REST_API-%236366f1.svg?style=for-the-badge&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-%23a855f7.svg?style=for-the-badge&logoColor=white)
 
-**Frontend**
+</div>
+
+<h4>Frontend</h4>
+<div>
 
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-**AI + Data**
+</div>
+
+<h4>AI + Data</h4>
+<div>
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-%238b5cf6.svg?style=for-the-badge&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP_·_RoBERTa-%237c3aed.svg?style=for-the-badge&logoColor=white)
 
-**Databases**
+</div>
+
+<h4>Databases</h4>
+<div>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -56,7 +69,10 @@ status      : open to opportunities ✅
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
-**DevOps + Tools**
+</div>
+
+<h4>DevOps + Tools</h4>
+<div>
 
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -64,28 +80,30 @@ status      : open to opportunities ✅
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%236366f1.svg?style=for-the-badge&logoColor=white)
 
----
+</div>
 
-### `> github --stats`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
+<h2 align="center">GitHub Stats</h2>
+
+<div>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Manusha-Kuruwitaarachchi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=94a3b8&count_private=true&rank_icon=github" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manusha-Kuruwitaarachchi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=94a3b8&langs_count=6&hide=html" />
 
 </div>
 
-<div align="center">
+<div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Manusha-Kuruwitaarachchi&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=6366f1&ring=a78bfa&fire=7c3aed&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=475569)](https://git.io/streak-stats)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### `> git log --contributions`
+<h2 align="center">Contribution Graph</h2>
 
-<div align="center">
+<div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manusha-Kuruwitaarachchi/Manusha-Kuruwitaarachchi/output/github-snake-dark.svg" />
@@ -95,23 +113,22 @@ status      : open to opportunities ✅
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### `> trophy --show`
+<h2 align="center">Trophies</h2>
 
-<div align="center">
+<div>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Manusha-Kuruwitaarachchi&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### `> connect --all`
+<h2 align="center">Connect</h2>
 
-<div align="center">
+<div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-manusha--kuruwitaarachchi.vercel.app-c4b5fd?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://manusha-kuruwitaarachchi.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-manushaavinda%40gmail.com-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:manushaavinda@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manusha--kuruwitaarachchi-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/manusha-kuruwitaarachchi-0b0710208/)
 [![GitHub](https://img.shields.io/badge/GitHub-Manusha--Kuruwitaarachchi-6366f1?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Manusha-Kuruwitaarachchi)
