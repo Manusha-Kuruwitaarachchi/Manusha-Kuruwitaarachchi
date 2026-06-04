@@ -13,7 +13,7 @@
 ```yaml
 name        : Manusha Kuruwitaarachchi
 role        : Full-Stack Developer & AI Explorer
-location    : Colombo, Sri Lanka 
+location    : Colombo, Sri Lanka 🇱🇰
 backend     : Java · Spring Boot · Microservices · Node.js · FastAPI
 frontend    : React · React Native · TypeScript · JavaScript
 ai_stack    : Python · LLMs · NLP · RoBERTa
@@ -111,6 +111,7 @@ status      : open to opportunities ✅
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-manusha--kuruwitaarachchi.vercel.app-c4b5fd?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://manusha-kuruwitaarachchi.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-manushaavinda%40gmail.com-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:manushaavinda@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manusha--kuruwitaarachchi-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/manusha-kuruwitaarachchi-0b0710208/)
 [![GitHub](https://img.shields.io/badge/GitHub-Manusha--Kuruwitaarachchi-6366f1?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Manusha-Kuruwitaarachchi)
